@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "title": "首頁",
+      "ID": "menu_home"
+    },
+    {
+      "title": "商品購物",
+      "ID": "menu_shopping"
+    },
+    {
+      "title": "APP購物辦法",
+      "ID": "menu_app-guide"
+    },
+    {
+      "title": "服務據點與時間",
+      "ID": "menu_service-locations"
+    }
+  ]
+}
