@@ -5,11 +5,15 @@
       "ID": "menu_home"
     },
     {
-      "title": "商品購物",
-      "ID": "menu_shopping"
+      "title": "快速訂購",
+      "ID": "menu_quickOrder"
     },
     {
-      "title": "APP購物辦法",
+      "title": "我的最愛",
+      "ID": "menu_favorite"
+    },
+    {
+      "title": "APP購Q&A",
       "ID": "menu_app-guide"
     },
     {
