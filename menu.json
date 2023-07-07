@@ -13,17 +13,17 @@
     {
       "title": "我的最愛",
       "ID": "menu_favorite",
-      "image": "heart.circle.fill"
+      "image": "heart.circle"
     },
     {
       "title": "APP購Q&A",
       "ID": "menu_app-guide",
-      "image": "questionmark.bubble.fill"
+      "image": "questionmark.bubble"
     },
     {
       "title": "服務據點與時間",
       "ID": "menu_service-locations",
-      "image": "location.square.fill"
+      "image": "location.square"
     }
   ]
 }
