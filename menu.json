@@ -5,6 +5,10 @@
       "ID": "menu_home"
     },
     {
+      "title": "最新消息",
+      "ID": "menu_news"
+    },
+    {
       "title": "快速訂購",
       "ID": "menu_quickOrder"
     },
