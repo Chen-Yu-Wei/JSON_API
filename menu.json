@@ -2,23 +2,28 @@
   "list": [
     {
       "title": "最新消息",
-      "ID": "menu_news"
+      "ID": "menu_news",
+      "image": "newspaper"
     },
     {
       "title": "快速訂購",
-      "ID": "menu_quickOrder"
+      "ID": "menu_quickOrder",
+      "image": "basket"
     },
     {
       "title": "我的最愛",
-      "ID": "menu_favorite"
+      "ID": "menu_favorite",
+      "image": "heart.circle.fill"
     },
     {
       "title": "APP購Q&A",
-      "ID": "menu_app-guide"
+      "ID": "menu_app-guide",
+      "image": "questionmark.bubble.fill"
     },
     {
       "title": "服務據點與時間",
-      "ID": "menu_service-locations"
+      "ID": "menu_service-locations",
+      "image": "location.square.fill"
     }
   ]
 }
