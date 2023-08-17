@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "title": "推播訊息",
+      "ID": "menu_PushNotification",
+      "image": "bell.badge"
+    },
+    {
+      "title": "訂購查詢",
+      "ID": "menu_QueryOrder",
+      "image": "bag.badge.questionmark"
+    },
+    {
+      "title": "個人資料修改",
+      "ID": "menu_ModifyMemberInfo",
+      "image": "person.2.badge.gearshape"
+    },
+    {
+      "title": "會員QRcode",
+      "ID": "menu_MemberQRcord",
+      "image": "person.text.rectangle"
+    }
+  ]
+}
