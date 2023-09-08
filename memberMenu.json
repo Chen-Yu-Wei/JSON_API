@@ -10,6 +10,11 @@
       "ID": "menu_PushNotification",
       "image": "bell.badge"
     },
+     {
+      "title": "快速訂購",
+      "ID": "menu_quickOrder",
+      "image": "basket"
+    },
     {
       "title": "個人資料修改",
       "ID": "menu_ModifyMemberInfo",
