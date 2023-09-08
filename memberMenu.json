@@ -1,14 +1,14 @@
 {
   "list": [
+     {
+      "title": "最新消息",
+      "ID": "menu_news",
+      "image": "newspaper"
+    },
     {
       "title": "推播訊息",
       "ID": "menu_PushNotification",
       "image": "bell.badge"
-    },
-    {
-      "title": "訂購查詢",
-      "ID": "menu_QueryOrder",
-      "image": "bag.badge.questionmark"
     },
     {
       "title": "個人資料修改",
@@ -16,9 +16,24 @@
       "image": "person.2.badge.gearshape"
     },
     {
-      "title": "會員QRcode",
-      "ID": "menu_MemberQRcord",
-      "image": "person.text.rectangle"
+      "title": "訂購查詢",
+      "ID": "menu_QueryOrder",
+      "image": "bag.badge.questionmark"
+    },
+    {
+      "title": "我的最愛",
+      "ID": "menu_favorite",
+      "image": "heart.circle"
+    },
+    {
+      "title": "APP購物Q&A",
+      "ID": "menu_app-guide",
+      "image": "questionmark.bubble"
+    },
+    {
+      "title": "服務據點與時間",
+      "ID": "menu_service-locations",
+      "image": "location.square"
     }
   ]
 }
