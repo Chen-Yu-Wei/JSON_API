@@ -1,16 +1,6 @@
 {
   "list": [
      {
-      "title": "最新消息",
-      "ID": "menu_news",
-      "image": "newspaper"
-    },
-    {
-      "title": "推播訊息",
-      "ID": "menu_PushNotification",
-      "image": "bell.badge"
-    },
-     {
       "title": "快速訂購",
       "ID": "menu_quickOrder",
       "image": "basket"
