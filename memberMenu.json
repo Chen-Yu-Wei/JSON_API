@@ -1,10 +1,5 @@
 {
   "list": [
-     {
-      "title": "快速訂購",
-      "ID": "menu_quickOrder",
-      "image": "basket"
-    },
     {
       "title": "個人資料修改",
       "ID": "menu_ModifyMemberInfo",
@@ -20,15 +15,5 @@
       "ID": "menu_favorite",
       "image": "heart.circle"
     },
-    {
-      "title": "APP購物Q&A",
-      "ID": "menu_app-guide",
-      "image": "questionmark.bubble"
-    },
-    {
-      "title": "服務據點與時間",
-      "ID": "menu_service-locations",
-      "image": "location.square"
-    }
   ]
 }
