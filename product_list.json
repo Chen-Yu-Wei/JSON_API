@@ -6,7 +6,8 @@
       "price": 199,
       "description": "美肌保濕精華液含有豐富的保濕成分，能夠深層滋潤肌膚並改善乾燥問題。它具有輕盈的質地，容易被皮膚吸收，讓您的肌膚水嫩飽滿。",
       "category": "護膚品",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": true
     },
     {
       "id": "002",
@@ -14,7 +15,8 @@
       "price": 99,
       "description": "綠茶淨化洗面乳是一款溫和而有效的洗面產品，含有天然綠茶萃取物，能夠深層清潔毛孔，去除油脂和污垢，讓您的肌膚清爽不油膩。",
       "category": "個人護理",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": false
     },
     {
       "id": "003",
@@ -22,7 +24,8 @@
       "price": 299,
       "description": "健康飲品套裝包含多種營養豐富的飲品，如蛋白粉、果汁和蔬菜汁，能夠提供全面的營養支持，幫助您保持健康和活力。",
       "category": "健康飲品",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": true
     },
     {
       "id": "004",
@@ -30,7 +33,8 @@
       "price": 699,
       "description": "家居空氣清淨機能夠過濾室內空氣中的細微顆粒和有害物質，提供您清新健康的室內環境。它具有靜音運行和智能感應功能，方便實用。",
       "category": "家居生活",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": false
     },
     {
       "id": "005",
@@ -38,7 +42,8 @@
       "price": 149,
       "description": "瘦身霜採用獨特的配方，能夠幫助減少脂肪累積，緊緻肌膚並改善外觀。它含有天然成分，安全有效，適合各種膚質使用。",
       "category": "美體塑身",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": true
     },
     {
       "id": "006",
@@ -46,7 +51,8 @@
       "price": 79,
       "description": "天然有機嬰兒沐浴露是一款溫和而純淨的產品，不含任何有害物質，能夠溫和清潔寶寶的肌膚，讓寶寶擁有健康和舒適的沐浴體驗。",
       "category": "嬰兒護理",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": false
     },
     {
       "id": "007",
@@ -54,7 +60,8 @@
       "price": 899,
       "description": "健身器材套裝包括多種健身設備，如啞鈴、跑步機和健身球，讓您在家中進行全面的健身運動，提升健康和體能。",
       "category": "健身器材",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": true
     },
     {
       "id": "008",
@@ -62,7 +69,8 @@
       "price": 159,
       "description": "天然精油套裝包含多種純淨天然的精油，如薰衣草、檸檬和薄荷，可用於按摩、香薰和身體護理，為您提供放鬆和舒緩的體驗。",
       "category": "個人護理",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": false
     },
     {
       "id": "009",
@@ -70,7 +78,8 @@
       "price": 129,
       "description": "抗衰老面膜富含多種抗氧化成分和保濕成分，能夠減少皺紋和細紋，提升肌膚彈性和光澤，讓您的肌膚年輕飽滿。",
       "category": "護膚品",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": true
     },
     {
       "id": "010",
@@ -78,95 +87,106 @@
       "price": 49,
       "description": "可以保溫的杯子",
       "category": "日常用品",
-      "availability": true
+      "availability": true,
+      "limited_time_offer": false
     },
     {
       "id": "011",
-  "name": "深層清潔泥面膜",
-  "price": 79,
-  "description": "這款深層清潔泥面膜能夠有效去除皮膚表面的污垢和堆積的油脂，幫助收縮毛孔並改善肌膚的質地。使用後，您的肌膚會感覺更加清爽和柔軟。",
-  "category": "護膚品",
-  "availability": true
-},
+      "name": "深層清潔泥面膜",
+      "price": 79,
+      "description": "這款深層清潔泥面膜能夠有效去除皮膚表面的污垢和堆積的油脂，幫助收縮毛孔並改善肌膚的質地。使用後，您的肌膚會感覺更加清爽和柔軟。",
+      "category": "護膚品",
+      "availability": true,
+      "limited_time_offer": true
+    },
     {
-  "id": "012",
-  "name": "維他命C亮白精華液",
-  "price": 149,
-  "description": "維他命C富含抗氧化成分，能夠幫助均勻膚色，減少色斑和細紋。這款亮白精華液能夠提亮您的膚色，讓您的肌膚看起來更加明亮。",
-  "category": "護膚品",
-  "availability": true
-},
+      "id": "012",
+      "name": "維他命C亮白精華液",
+      "price": 149,
+      "description": "維他命C富含抗氧化成分，能夠幫助均勻膚色，減少色斑和細紋。這款亮白精華液能夠提亮您的膚色，讓您的肌膚看起來更加明亮。",
+      "category": "護膚品",
+      "availability": true,
+      "limited_time_offer": false
+    },
     {
-  "id": "013",
-  "name": "玻尿酸保濕面膜",
-  "price": 69,
-  "description": "這款玻尿酸保濕面膜含有高濃度的玻尿酸成分，能夠深層滋潤肌膚，增加水分保持能力。使用後，您的肌膚會變得水潤飽滿，煥然一新。",
-  "category": "護膚品",
-  "availability": true
-},
+      "id": "013",
+      "name": "玻尿酸保濕面膜",
+      "price": 69,
+      "description": "這款玻尿酸保濕面膜含有高濃度的玻尿酸成分，能夠深層滋潤肌膚，增加水分保持能力。使用後，您的肌膚會變得水潤飽滿，煥然一新。",
+      "category": "護膚品",
+      "availability": true,
+      "limited_time_offer": true
+    },
     {
-  "id": "014",
-  "name": "抗皺緊緻精華液",
-  "price": 189,
-  "description": "這款抗皺緊緻精華液含有多種抗衰老成分，能夠減少細紋和皺紋，同時提升肌膚彈性。它能夠讓您的肌膚變得更加年輕和緊緻。",
-  "category": "護膚品",
-  "availability": true
-},
+      "id": "014",
+      "name": "抗皺緊緻精華液",
+      "price": 189,
+      "description": "這款抗皺緊緻精華液含有多種抗衰老成分，能夠減少細紋和皺紋，同時提升肌膚彈性。它能夠讓您的肌膚變得更加年輕和緊緻。",
+      "category": "護膚品",
+      "availability": true,
+      "limited_time_offer": false
+    },
     {
-  "id": "015",
-  "name": "天然橄欖沐浴乳",
-  "price": 79,
-  "description": "這款天然橄欖沐浴乳含有橄欖萃取物，能夠溫和潔淨肌膚，同時保持肌膚水分平衡，讓您在沐浴後感覺舒爽滋潤。",
-  "category": "個人護理",
-  "availability": true
-},
+      "id": "015",
+      "name": "天然橄欖沐浴乳",
+      "price": 79,
+      "description": "這款天然橄欖沐浴乳含有橄欖萃取物，能夠溫和潔淨肌膚，同時保持肌膚水分平衡，讓您在沐浴後感覺舒爽滋潤。",
+      "category": "個人護理",
+      "availability": true,
+      "limited_time_offer": true
+    },
     {
-  "id": "016",
-  "name": "清新薄荷牙膏",
-  "price": 19,
-  "description": "這款清新薄荷牙膏含有薄荷精油，能夠有效清潔牙齒，同時帶來持久的口氣清新感，讓您保持自信的笑容。",
-  "category": "個人護理",
-  "availability": true
-},
-    {
+      "id": "016",
+      "name": "清新薄荷牙膏",
+      "price": 19,
+      "description": "這款清新薄荷牙膏含有薄荷精油，能夠有效清潔牙齒，同時帶來持久的口氣清新感，讓您保持自信的笑容。",
+      "category": "個人護理",
+      "availability": true,
+      "limited_time_offer": true
+    },{
   "id": "017",
   "name": "舒緩蘆薈修護膏",
   "price": 49,
   "description": "這款舒緩蘆薈修護膏含有蘆薈成分，能夠舒緩受損肌膚，促進修復和恢復肌膚健康，適用於曬傷、乾燥等肌膚問題。",
   "category": "個人護理",
-  "availability": true
+  "availability": true,
+  "limited_time_offer": false
 },
-    {
+{
   "id": "018",
   "name": "柔滑絲緞髮潤髮乳",
   "price": 29,
   "description": "這款柔滑絲緞髮潤髮乳含有滋潤成分，能夠滋養乾燥的髮絲，使其變得柔順順滑，易於梳理，同時增加髮絲光澤。",
   "category": "個人護理",
-  "availability": true
-    },
-    {
+  "availability": true,
+  "limited_time_offer": true
+},
+{
   "id": "019",
   "name": "蔓越莓抗氧化果汁",
   "price": 39,
   "description": "這款蔓越莓抗氧化果汁富含天然抗氧化劑，能夠幫助中和自由基，保護身體健康，同時提供美味的果汁享受。",
   "category": "健康飲品",
-  "availability": true
+  "availability": true,
+  "limited_time_offer": true
 },
-    {
+{
   "id": "020",
   "name": "高蛋白草莓蛋白粉",
   "price": 49,
   "description": "這款高蛋白草莓蛋白粉含有豐富的蛋白質，適合作為運動後的補充，能夠幫助肌肉修復和成長，同時添加了草莓風味，美味可口。",
   "category": "健康飲品",
-  "availability": true
+  "availability": true,
+  "limited_time_offer": false
 },
-    {
+{
   "id": "021",
   "name": "綠色能量蔬菜汁",
   "price": 29,
   "description": "這款綠色能量蔬菜汁含有多種營養豐富的蔬菜成分，如菠菜、青椒等，能夠提供維生素和礦物質，增加身體的能量和免疫力。",
   "category": "健康飲品",
-  "availability": true
+  "availability": true,
+  "limited_time_offer": true
 },
 {
   "id": "022",
@@ -174,9 +194,8 @@
   "price": 34,
   "description": "這款多果混合果汁結合了多種水果，如蘋果、橘子、葡萄等，提供豐富的維生素和纖維，讓您享受美味的果汁同時獲得營養。",
   "category": "健康飲品",
-  "availability": true
+  "availability": true,
+  "limited_time_offer": false
 }
-
-
   ]
 }
