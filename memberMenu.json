@@ -1,19 +1,19 @@
 {
   "list": [
     {
-      "title": "個人資料修改",
-      "ID": "menu_ModifyMemberInfo",
-      "image": "person.2.badge.gearshape"
+      "title": "收藏",
+      "ID": "menu_favorite",
+      "image": "heart.circle"
     },
     {
-      "title": "訂購查詢",
+      "title": "訂單查詢",
       "ID": "menu_QueryOrder",
       "image": "bag.badge.questionmark"
     },
     {
-      "title": "我的最愛",
-      "ID": "menu_favorite",
-      "image": "heart.circle"
+      "title": "個人設定",
+      "ID": "menu_ModifyMemberInfo",
+      "image": "person.2.badge.gearshape"
     },
   ]
 }
